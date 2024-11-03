@@ -1,4 +1,5 @@
 # Running Sample Tests
+  A sample unit test service named as OrderServiceTest has been created which test for deleting an order.
   ## You can run sample tests with running the command below
   - mvn test
 
